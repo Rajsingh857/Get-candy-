@@ -1,0 +1,8 @@
+{
+  "name": "Halloween Escape: Get All the Candy!",
+  "description": "An interactive spooky-cute Halloween party escape game inspired by the Genially Halloween Escape template. Visit 5 haunted houses, solve witch riddles, and collect all the candy!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
